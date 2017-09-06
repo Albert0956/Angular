@@ -1,4 +1,4 @@
 # Angular
 / datetime
 / date
-<p color='red'>by Albert Lee</p>
+<p style='color:red'>by Albert Lee</p>
